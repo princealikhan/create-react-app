@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180px" height="180px" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F5515F" offset="0%"></stop>
+            <stop stop-color="#9F041B" offset="100%"></stop>
+        </linearGradient>
+        <path d="M45.5824901,3.59255486 C73.9983826,-5.02349467 113.554862,1.46653906 132.031309,34.5271319 C163.935562,91.6145982 153.616769,123.380212 146.153083,131.532055 C131.663729,147.357338 106.354943,150.260859 94.9900419,151.181325 C84.4872642,152.031965 67.6654242,151.319484 63.8527996,151 C60.040175,150.680516 42.1752727,149.560204 32.3554147,141.993828 C15.3158805,128.864563 0,120.022144 0,84.7593972 C2.15922052e-15,49.4966502 17.1665976,12.2086044 45.5824901,3.59255486 Z" id="path-2"></path>
+        <linearGradient x1="0%" y1="0%" x2="67.0667803%" y2="50%" id="linearGradient-4">
+            <stop stop-color="#FAD961" offset="0%"></stop>
+            <stop stop-color="#F76B1C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="50%" y2="50%" id="linearGradient-5">
+            <stop stop-color="#FAD961" offset="0%"></stop>
+            <stop stop-color="#F76B1C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="4.16872906%" x2="90.2806761%" y2="87.3651358%" id="linearGradient-6">
+            <stop stop-color="#FAD961" offset="0%"></stop>
+            <stop stop-color="#F76B1C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="30.7553563%" y1="20.886269%" x2="72.0616198%" y2="72.9382369%" id="linearGradient-7">
+            <stop stop-color="#FAD961" offset="0%"></stop>
+            <stop stop-color="#F76B1C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="70.5898496%" y1="24.9167949%" x2="27.6675284%" y2="76.4740414%" id="linearGradient-8">
+            <stop stop-color="#FAD961" offset="0%"></stop>
+            <stop stop-color="#F76B1C" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(5.000000, 14.000000)">
+            <g id="Group">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="Path-2" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+            </g>
+            <g id="holistic" transform="translate(13.000000, 42.000000)" fill-rule="nonzero">
+                <path d="M19.8050865,8.80508653 L27.4413556,8.80508653 C54.6611629,8.80508653 76.8050865,30.9501083 76.8050865,58.1690581 L76.8050865,65.8050865 L69.1688175,65.8050865 C41.9490101,65.8050865 19.8050865,43.6600648 19.8050865,16.441115 L19.8050865,8.80508653 Z" id="Path" fill="url(#linearGradient-4)" transform="translate(48.305087, 37.305087) rotate(-345.000000) translate(-48.305087, -37.305087) "></path>
+                <path d="M71.4052288,9.40522883 L79.0414979,9.40522883 C106.261305,9.40522883 128.405229,31.5502506 128.405229,58.7692004 L128.405229,66.4052288 L120.76896,66.4052288 C93.5491525,66.4052288 71.4052288,44.2602071 71.4052288,17.0412573 L71.4052288,9.40522883 Z" id="Path" fill="url(#linearGradient-5)" transform="translate(99.905229, 37.905229) rotate(-285.000000) translate(-99.905229, -37.905229) "></path>
+                <path d="M49.8050865,11.8050865 L57.4413556,11.8050865 C84.6611629,11.8050865 106.805087,33.9501083 106.805087,61.1690581 L106.805087,68.8050865 L99.1688175,68.8050865 C71.9490101,68.8050865 49.8050865,46.6600648 49.8050865,19.441115 L49.8050865,11.8050865 Z" id="Path" fill="url(#linearGradient-6)" transform="translate(78.305087, 40.305087) rotate(-315.000000) translate(-78.305087, -40.305087) "></path>
+                <path d="M158,23 L158,34.5210254 C158,73.0421409 128.945967,104.827666 91.841498,108.620861 C89.3890601,108.871575 86.901453,109 84.3847413,109 L73,97.4789746 C73,56.4117872 106.021641,23 146.612581,23 L158,23 Z" id="Path" fill="url(#linearGradient-7)"></path>
+                <path d="M0,24 L11.3874188,24 C51.9783595,24 85,57.0232781 85,97.61294 L85,109 L73.6125812,109 C33.0216405,109 0,75.9767219 0,35.38706 L0,24 Z" id="Path" fill="url(#linearGradient-8)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
